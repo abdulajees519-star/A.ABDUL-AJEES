@@ -10,3 +10,7 @@ preview:
 3. college notes demo- https://abdulajees519-star.github.io/A.ABDUL-AJEES/college%20notes.html
   Preview:
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/076c7bdc-1aab-476c-8c6c-cd7d006d5cd7" />
+
+4. Photo Gallery - https://abdulajees519-star.github.io/A.ABDUL-AJEES/gallery.html
+<img width="1790" height="441" alt="image" src="https://github.com/user-attachments/assets/898c7bca-02a3-4d5b-80a3-70ab7bb06b60" />
+
